@@ -1,0 +1,62 @@
+{
+    "create":{
+        "name": "Tonho Da Lua",
+        "email": "malucodalua@gmail.com",
+        "age": "35",
+        "weight": "100",
+        "feet_tall": "1.72"
+    },
+    "duplicate":{
+        "name": "Dona Neves",
+        "email": "donaneves@gmail.com",
+        "age": "35",
+        "weight": "100",
+        "feet_tall": "1.72"
+    },
+    "remove":{
+        "name": "Chopolin Colorado",
+        "email": "chopolin@gmail.com",
+        "age": "35",
+        "weight": "100",
+        "feet_tall": "1.72"
+    },
+    "required":{
+        "name": "",
+        "email": "",
+        "age": "",
+        "weight": "",
+        "feet_tall": ""
+    },
+    "age_test":{
+        "name": "Menor De Idade",
+        "email": "menor@gmail.com",
+        "age": "16",
+        "weight": "100",
+        "feet_tall": "1.60"
+    },
+
+    "under_16_years": {
+        "name": "Vera Higgins",
+        "email": "ibpilka@ov.mt",
+        "age": "15",
+        "weight": "65",
+        "feet_tall": "1.69"
+    },
+    "inv_weight": {
+        "name": "Rena McKinney",
+        "email": "putab@jacob.mp",
+        "age": "16",
+        "weight": "-1",
+        "feet_tall": "1.75"
+    },
+    "inv_feet_tall": {
+        "name": "Clarence Morton",
+        "email": "ci@kapawaj.lb",
+        "age": "16",
+        "weight": "70",
+        "feet_tall": "0"
+    }
+
+
+
+}

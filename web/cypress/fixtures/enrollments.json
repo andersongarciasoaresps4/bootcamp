@@ -1,0 +1,27 @@
+{
+    "create": {
+
+        "student": {
+            "name": "Fernando Papito",
+            "email": "fernando@yahoo.com",
+            "age": "35",
+            "weight": "100",
+            "feet_tall": "1.72"
+        },
+        "plan": "Plano Health"
+    },
+    "duplicate": {
+
+        "student": {
+            "name": "John Doe",
+            "email": "johndoe@gmail.com",
+            "age": "30",
+            "weight": "81",
+            "feet_tall": "1.74"
+        },
+        "plan": {
+            "id": 1,
+            "name": "Plano Health"
+        }
+    }
+}
